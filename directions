@@ -1,0 +1,13 @@
+Steps to update rmd files to github:
+1)  Create new repository
+2)  Copy SSH key and copy clipboard
+3)  Go to Rstudio and open New Project -> Version Control -> Git
+4)  Paste SSH key and enter TAB
+5)  Make sure the Repository URL and Project Directory name are the same as those from Github
+6)  Click Repository
+7)  Create or upload rmd file within the project directory name
+8)  To add any updates, go to Git tab on Rstudio (top-right)
+9)  Click Commit
+10) Check all the box and click commit once more
+11) Click Push
+12) Refresh github repository and confirm that your rmd files have been updated
