@@ -11,3 +11,5 @@ Steps to update rmd files to github:
 10) Check all the box and click commit once more
 11) Click Push
 12) Refresh github repository and confirm that your rmd files have been updated
+
+Reference: https://resources.github.com/github-and-rstudio/
